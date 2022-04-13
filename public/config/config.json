@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xb8017E9660960C58b63d2DEdA983De4A7912E379",
-  "SCAN_LINK": "https://moonriver.moonscan.io/token/0xb8017E9660960C58b63d2DEdA983De4A7912E379",
+  "CONTRACT_ADDRESS": "0xCaa087e6531fb9AAae423E439DA522cCD8D57B97",
+  "SCAN_LINK": "https://evm.evmos.dev/address/0xCaa087e6531fb9AAae423E439DA522cCD8D57B97/transactions",
   "NETWORK": {
-    "NAME": "Moonriver",
-    "SYMBOL": "MOVR",
-    "ID": 1285
+    "NAME": "Evmos Testnet",
+    "SYMBOL": "tEVMOS",
+    "ID": 9000
   },
   "NFT_NAME": "Bored Puppets Yacht Club",
   "SYMBOL": "BPYC",
   "MAX_SUPPLY": 3333,
   "WEI_COST": 50000000000000000,
-  "DISPLAY_COST": 0.05,
+  "DISPLAY_COST": 1.00,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Marketplace",
-  "MARKETPLACE_LINK": "https://moonbeans.io/#/collections/boredpuppets",
+  "MARKETPLACE_LINK": "https://twitter.com/OrbitMarketOS",
   "SHOW_BACKGROUND": true
 }
