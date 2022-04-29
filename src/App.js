@@ -272,7 +272,7 @@ function App() {
               </StyledButton>
               <StyledButton
                 onClick={(e) => {
-                  window.open("https://tapk.it/boredpuppetsyachtclub", "_blank");
+                  window.open("https://www.orbitmarket.io/collection/0xcaa087e6531fb9aaae423e439da522ccd8d57b97", "_blank");
                 }}
                 style={{
                   margin: "5px",
